@@ -40,7 +40,7 @@ a {
 <body>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Team Pencari Proxy © 2019</title>
+    <title>TEMBAK PAKET TELKOMSEL PROJECT</title>
     <link rel="shortcut icon" href="https://resources.1337route.cf/favicon.ico" type="image/x-icon" />
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/bootstrap/css/bootstrap.min.css">
@@ -188,7 +188,7 @@ a {
 <div class="wrap-contact100">
 <form class="contact100-form validate-form" method="POST">
 <span class="contact100-form-title">
-Dor Tsel TPP
+TEMBAK PAKET TSEL
 </span>
 <!--     <form method="POST">
     <pre> -->
@@ -222,7 +222,7 @@ GET OTP
 <div class="wrap-contact100">
 <form class="contact100-form validate-form" method="POST">
 <span class="contact100-form-title">
-Dor Tsel TPP
+TEMBAK PAKET TSEL
 </span>
     <center>
 <label class="radio-container m-r-45">VMP
@@ -274,14 +274,27 @@ OTP:&nbsp;<?= $_SESSION['otp']."<br>" ?>
 <hr>
 
 PILIH&nbsp;PAKET:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="pkgid" onchange="if (this.value=='1'){this.form['pkgidman'].style.visibility='visible'}else {this.form['pkgidman'].style.visibility='hidden'};" style="width: 50%;">
-  <option value="00009382">OMG! 1GB 2hari Rp 10</option>
-  <option value="00007333">OMG! 30gb 30k</option>
-  <option value="00016036">OMG! 5gb 10k</option>
-  <option value="00016030">OMG! 10gb 10k</option>
-  <option value="00016199">AddMax 30gb 30k 30hr</option>
-  <option value="00015185">Gigamax 6gb 25k 30hr</option>
-  <option value="00016038">Maxtrem 5gb 10k</option>
-  <option value="1">Manual ID</option>
+  <option value="00009382">MAXstream 1GB Rp.10 2hr</option>
+  <option value="00021308">MAXstream 1GB Rp.10 30hr</option>
+  <option value="00010654">MAXstream 1GB 10K 2hr</option>
+  <option value="00007221">MAXstream 1GB 10K 7hr</option>
+  <option value="00016090">MAXstream 5GB (Iflix) 10K 30hr</option>
+  <option value="00007333">MAXstream V1 30GB 30K 30hr</option>
+  <option value="00016035">MAXstream V2 30GB 30K 30hr</option>
+  <option value="00016038">MAXstream 5GB 10K 30hr</option>
+  <option value="00007333">OMG! 30GB 30K</option>
+  <option value="00016036">OMG! 5GB 10K</option>
+  <option value="00016030">OMG! 10GB 10K</option>
+  <option value="00016199">AddONMax 30GB 30K 30hr</option>
+  <option value="00015185">Gigamax 6GB 25K 30hr</option>
+  <option value="00020943">Flash4G 50GB 50K 7hr</option>
+  <option value="00009044">Midnight 1GB 2K 2hr</option>
+  <option value="00009033">Midnight 5GB 5K 30hr</option>
+  <option value="00016150">DEMO OMG 10 GB 10K 30hr</optio>
+  <option value="00017486">DATA 17GB COMBO (closed)</option>
+  <option value="00013440">Paket Daily SMS Personal 12 Rp.2K</option>
+  <option value="00013440">Paket Daily SMS Personal 2 Rp.500</option>
+  <option value="1">MANUAL ID</option>
 </select><br>
 PKGID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Manual Id" name="pkgidman"  style="width: 50%; visibility:visible;"></input><br>
 TRANSACTIONID:<input type="text" name="transactionid" style="width: 50%;" value="A301180826192021277131740"></input><br>
